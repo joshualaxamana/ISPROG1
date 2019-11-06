@@ -1,0 +1,17 @@
+c:\users\11438537\documents\visual studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\bin\Debug\MyLibrarySystem.exe
+c:\users\11438537\documents\visual studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\bin\Debug\MyLibrarySystem.pdb
+c:\users\11438537\documents\visual studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.Main.resources
+c:\users\11438537\documents\visual studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.Properties.Resources.resources
+c:\users\11438537\documents\visual studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.csproj.GenerateResource.Cache
+c:\users\11438537\documents\visual studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.exe
+c:\users\11438537\documents\visual studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.pdb
+c:\users\11438537\documents\visual studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.About.resources
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.exe
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.pdb
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\bin\Debug\MyLibrarySystem.exe
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\bin\Debug\MyLibrarySystem.pdb
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.About.resources
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.Main.resources
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.Properties.Resources.resources
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.csproj.GenerateResource.Cache
+C:\Users\joshlaxamana\Documents\Visual Studio 2010\Projects\MyLibrarySystem\MyLibrarySystem\obj\x86\Debug\MyLibrarySystem.csprojResolveAssemblyReference.cache

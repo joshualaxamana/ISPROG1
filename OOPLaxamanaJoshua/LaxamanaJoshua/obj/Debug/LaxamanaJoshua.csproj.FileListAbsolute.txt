@@ -1,0 +1,4 @@
+c:\users\11438537\documents\visual studio 2010\Projects\OOPLaxamanaJoshua\LaxamanaJoshua\bin\Debug\LaxamanaJoshua.dll
+c:\users\11438537\documents\visual studio 2010\Projects\OOPLaxamanaJoshua\LaxamanaJoshua\bin\Debug\LaxamanaJoshua.pdb
+c:\users\11438537\documents\visual studio 2010\Projects\OOPLaxamanaJoshua\LaxamanaJoshua\obj\Debug\LaxamanaJoshua.dll
+c:\users\11438537\documents\visual studio 2010\Projects\OOPLaxamanaJoshua\LaxamanaJoshua\obj\Debug\LaxamanaJoshua.pdb

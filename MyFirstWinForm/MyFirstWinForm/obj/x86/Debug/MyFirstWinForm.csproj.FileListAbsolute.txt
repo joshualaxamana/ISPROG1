@@ -1,0 +1,8 @@
+c:\users\11438537\documents\visual studio 2010\Projects\MyFirstWinForm\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe
+c:\users\11438537\documents\visual studio 2010\Projects\MyFirstWinForm\MyFirstWinForm\bin\Debug\MyFirstWinForm.pdb
+c:\users\11438537\documents\visual studio 2010\Projects\MyFirstWinForm\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.Calculator.resources
+c:\users\11438537\documents\visual studio 2010\Projects\MyFirstWinForm\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.Properties.Resources.resources
+c:\users\11438537\documents\visual studio 2010\Projects\MyFirstWinForm\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.csproj.GenerateResource.Cache
+c:\users\11438537\documents\visual studio 2010\Projects\MyFirstWinForm\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.exe
+c:\users\11438537\documents\visual studio 2010\Projects\MyFirstWinForm\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.pdb
+C:\Users\11438537\documents\visual studio 2010\Projects\MyFirstWinForm\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\11438537\documents\visual studio 2010\Projects\Quiz1LaxamanaJoshua\Quiz1LaxamanaJoshua\bin\Debug\Quiz1LaxamanaJoshua.exe
+c:\users\11438537\documents\visual studio 2010\Projects\Quiz1LaxamanaJoshua\Quiz1LaxamanaJoshua\bin\Debug\Quiz1LaxamanaJoshua.pdb
+c:\users\11438537\documents\visual studio 2010\Projects\Quiz1LaxamanaJoshua\Quiz1LaxamanaJoshua\obj\x86\Debug\Quiz1LaxamanaJoshua.exe
+c:\users\11438537\documents\visual studio 2010\Projects\Quiz1LaxamanaJoshua\Quiz1LaxamanaJoshua\obj\x86\Debug\Quiz1LaxamanaJoshua.pdb

@@ -1,0 +1,5 @@
+c:\users\11438537\documents\visual studio 2010\Projects\Ex06LaxamanaJoshua\Ex06LaxamanaJoshua\bin\Debug\Ex06LaxamanaJoshua.exe
+c:\users\11438537\documents\visual studio 2010\Projects\Ex06LaxamanaJoshua\Ex06LaxamanaJoshua\bin\Debug\Ex06LaxamanaJoshua.pdb
+c:\users\11438537\documents\visual studio 2010\Projects\Ex06LaxamanaJoshua\Ex06LaxamanaJoshua\obj\x86\Debug\Ex06LaxamanaJoshua.exe
+c:\users\11438537\documents\visual studio 2010\Projects\Ex06LaxamanaJoshua\Ex06LaxamanaJoshua\obj\x86\Debug\Ex06LaxamanaJoshua.pdb
+C:\Users\11438537\Documents\Visual Studio 2010\Projects\Ex06LaxamanaJoshua\Ex06LaxamanaJoshua\obj\x86\Debug\Ex06LaxamanaJoshua.csprojResolveAssemblyReference.cache
